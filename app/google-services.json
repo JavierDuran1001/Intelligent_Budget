@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889791642631",
+    "project_id": "intelligent-budget",
+    "storage_bucket": "intelligent-budget.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889791642631:android:598621066b1e678d5c7ea2",
+        "android_client_info": {
+          "package_name": "mx.itesm.mamadolores.intelligentbudget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889791642631-0tki7e9fu3pq6tgsdbfmer2e867hc3ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmazisqtjeD72wG8jDmMdEzxNIyuqMSEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889791642631-0tki7e9fu3pq6tgsdbfmer2e867hc3ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
