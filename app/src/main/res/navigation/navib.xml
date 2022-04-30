@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navib"
+    app:startDestination="@id/loginActivity3">
+    <activity
+        android:id="@+id/loginActivity3"
+        android:name="mx.itesm.mamadolores.intelligentbudget.LoginActivity"
+        android:label="LoginActivity" />
+    <activity
+        android:id="@+id/mainActivity3"
+        android:name="mx.itesm.mamadolores.intelligentbudget.MainActivity"
+        android:label="MainActivity" />
+</navigation>
